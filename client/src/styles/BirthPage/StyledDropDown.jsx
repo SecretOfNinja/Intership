@@ -1,4 +1,4 @@
-/*import { useState } from "react";
+import { useState } from "react";
 // import Select, { components } from "react-select";
 import Select, { components } from "react-windowed-select";
 import WindowedSelect from "react-windowed-select";
@@ -44,13 +44,3 @@ const CustomDropdown = ({
 };
 
 export default CustomDropdown;
-*/
-import React from 'react'
-
-function StyledDropDown() {
-  return (
-    <div>StyledDropDown</div>
-  )
-}
-
-export default StyledDropDown
